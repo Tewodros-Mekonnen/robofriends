@@ -1,0 +1,15 @@
+@font-face {
+font-family: 'Patchy Robots Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Patchy Robots Regular'), url('Patchy Robots.woff') format('woff');
+}
+
+/*copied the above style from https://www.cufonfonts.com/font/patchy-robots, N.B downloaded the @font-face kit, saved the 
+   .woff file in the project src file and copied and pasted style.css file. make sure to import the .css file. */
+
+h1{
+	font-family: 'Patchy Robots Regular';
+	font-weight: 250;
+	color: #0ccac4;
+}
