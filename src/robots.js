@@ -1,61 +1,61 @@
 export const robots=[
 						 {
 					    id: 1,
-					    name: 'Tomas Mekonnen',
-					    username: 'Tomas',
-					    email: 'tomas@gmail.com'
+					    name: 'Eskiew',
+					    username: 'Eskiew',
+					    email: 'eskiew@gmail.com'
 					  },
 					  {
 					    id: 2,
-					    name: 'Eden Girma',
+					    name: 'Eden',
 					    username: 'eden-123',
 					    email: 'eden@yahoo.com'
 					  },
 					  {
 					    id: 3,
-					    name: 'Marta Biru',
-					    username: 'Marta',
-					    email: 'marta@gmail.com'
+					    name: 'Tood',
+					    username: 'Tood',
+					    email: 'tood@gmail.com'
 					  },
 					  {
 					    id: 4,
-					    name: 'Alem Tekele',
-					    username: 'alem',
-					    email: 'alem@aol.com'
+					    name: 'Bettisho',
+					    username: 'Bettisho',
+					    email: 'betty@aol.com'
 					  },
 					  {
 					    id: 5,
-					    name: 'Benyiam Hailu',
+					    name: 'Benyiam',
 					    username: 'Benyiam',
 					    email: 'beniyamhailu@gmail.com'
 					  },
 					  {
 					    id: 6,
-					    name: 'Melat Gebreselassie',
+					    name: 'Melat',
 					    username: 'melat',
 					    email: 'melat@yahoo.com'
 					  },
 					  {
 					    id: 7,
-					    name: 'Abebe Balcha',
+					    name: 'Abebe',
 					    username: 'abebe',
 					    email: 'abebe@yahoo.com'
 					  },
 					  {
 					    id: 8,
-					    name: 'Hilena Girma',
-					    username: 'hilena',
-					    email: 'hilena@gmail.com'
+					    name: 'Babisho',
+					    username: 'baby',
+					    email: 'baby@gmail.com'
 					  },
 					  {
 					    id: 9,
-					    name: 'Abel Abebe',
+					    name: 'Abel',
 					    username: 'abel',
 					    email: 'abel@yahoo.com'
 					  },
 					  {
 					    id: 10,
-					    name: 'Kalkidan Tadesse',
+					    name: 'Kalkidan',
 					    username: 'kalkidan',
 					    email: 'kalkidan@aol.com'
 					  },
